@@ -1,1 +1,7 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 12a2e24806f9f4aee90e46a2de88abc805a40eb7 sdyacob <denisyacobstephen@gmail.com> 1767717897 +0530	commit (initial): first commit
+12a2e24806f9f4aee90e46a2de88abc805a40eb7 0000000000000000000000000000000000000000 sdyacob <denisyacobstephen@gmail.com> 1767717897 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 12a2e24806f9f4aee90e46a2de88abc805a40eb7 sdyacob <denisyacobstephen@gmail.com> 1767717897 +0530	Branch: renamed refs/heads/master to refs/heads/main
+12a2e24806f9f4aee90e46a2de88abc805a40eb7 fef4f46d900c4ddb387500cd4195926aef748adb sdyacob <denisyacobstephen@gmail.com> 1767717968 +0530	commit: Add project dependencies
+fef4f46d900c4ddb387500cd4195926aef748adb bf6398ed55779cff4b01ab8aecf7c27173efe462 sdyacob <denisyacobstephen@gmail.com> 1767717975 +0530	commit: Add core detection logic using RoBERTa
+bf6398ed55779cff4b01ab8aecf7c27173efe462 0000000000000000000000000000000000000000 sdyacob <denisyacobstephen@gmail.com> 1767718182 +0530	Branch: renamed refs/heads/main to refs/heads/main
+bf6398ed55779cff4b01ab8aecf7c27173efe462 bf6398ed55779cff4b01ab8aecf7c27173efe462 sdyacob <denisyacobstephen@gmail.com> 1767718182 +0530	Branch: renamed refs/heads/main to refs/heads/main
